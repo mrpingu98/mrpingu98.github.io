@@ -12,6 +12,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload. TEEESSTTTTduhduh
         </p>
+        <img src='https://lh3.googleusercontent.com/pw/AMWts8A5tGHXWzRDNcqlhiSjRfr3Kb9Lt4npBbsBc-LTPJvTjTwyyV264HVO_uVqR-kvhOvs3A5vBA4a3KnltER23MTBvphvZxZ3fOoZKQ5gygUOFwwemaHamQLzcQR3TDZovagXNJd5PJEm0ykZWXX6ceyntg=w592-h789-s-no?authuser=0' referrerpolicy="no-referrer" />
+       <img src='https://images.sk-static.com/images/media/profile_images/artists/347077/huge_avatar' />
         <a
           className="App-link"
           href="https://reactjs.org"
